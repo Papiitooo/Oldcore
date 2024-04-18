@@ -32,7 +32,7 @@ Code contributions are very welcome and should be submitted as standard [pull re
 ## Building on Debian/Ubuntu
 
 ```console
-git clone https://github.com/Papiitoo/Miningcore
+git clone https://github.com/Papiitooo/Miningcore
 cd Miningcore
 ```
 
@@ -55,7 +55,7 @@ or
 Download and install the [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 
 ```dosbatch
-git clone https://github.com/Papiitoo/Miningcore
+git clone https://github.com/Papiitooo/Miningcore
 cd Miningcore
 build-windows.bat
 ```
@@ -69,7 +69,7 @@ build-windows.bat
 In case you don't want to install any dependencies then you can build the app using the official Microsoft .NET SDK Docker image.
 
 ```console
-git clone https://github.com/Papiitoo/Miningcore
+git clone https://github.com/Papiitooo/Miningcore
 cd Miningcore
 ```
 Then build using Docker:
@@ -197,7 +197,7 @@ Miningcore -c config.json
 
 ## Supported Currencies
 
-Refer to [this file](https://github.com/Papiitoo/Miningcore/blob/dev/src/Miningcore/coins.json) for a complete list.
+Refer to [this file](https://github.com/Papiitooo/Miningcore/blob/dev/src/Miningcore/coins.json) for a complete list.
 
 ## Caveats
 
